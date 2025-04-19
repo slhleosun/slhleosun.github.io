@@ -3,14 +3,14 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-lihao-sun",
+    title: "Lihao Sun",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-about",
-          title: "about",
+  },{id: "nav-lihao-sun",
+          title: "Lihao Sun",
           description: "",
           section: "Navigation",
           handler: () => {
