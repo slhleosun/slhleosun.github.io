@@ -2,20 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: |+
-  <strong>University of Chicago</strong><br>
-  <br><br>
+subtitle: University of Chicago
 
 profile:
+  align: right
   image: profile.png
   image_cicular: true # crops the image to make it circular
   address: false
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 services: false
 ---
+
 
 Hi there! I am a recent graduate from the University of Chicago, with a B.S. in Computer Science and a B.A. (Honors) in Cognitive Science. 
 
@@ -25,5 +25,8 @@ During my undergraduate years at UChicago, I am fortunate to work with [Xuechunz
 
 I am also an indie music lover, wrote for a music magazine, building startups, and specialized in competition math. You can find more about my life in this [tab](/life/). 
 
+[Email](mailto:slhleosun@uchicago.edu) \| [Google Scholar](https://scholar.google.com/citations?user=ZD4Z0Z4AAAAJ) \| [Github](https://github.com/slhleosun) \| [X](https://x.com/1e0sun) \| [Bluesky](https://bsky.app/profile/1e0sun.bsky.social)
+
 <!-- **I'm Looking for Fall 2025 PhD opportunities!** Please feel free to contact me via [haozhe.chen@columbia.edu](mailto:haozhe.chen@columbia.edu)! -->
+
 
