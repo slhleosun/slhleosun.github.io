@@ -17,31 +17,39 @@ I am also actively working on startups. Currently, I’m building Annotaverse, a
 
 I’m deeply interested in indie music and its surrounding subcultures, and I frequently attend live shows. My favorite bands and artists include 脏手指 (Oh! Dirty Fingers), My Bloody Valentine, and ミドリ (Midori). I’ve also written for a music magazine in the past - you can find my pieces here: 
 
-<div class="card" style="width: 18rem; margin: 1rem auto;">
-  <a href="https://firebirdmagazine.com/music-you-need-to-know/defiantharmony?rq=Dirty" target="_blank" rel="noopener">
-    <img src="/assets/img/dirty-fingers.jpg" class="card-img-top" alt="Defiant harmony cover">
-  </a>
-  <div class="card-body">
-    <h5 class="card-title">
+<div class="row row-cols-1 row-cols-md-2 g-4">
+  <!-- Card #1 -->
+  <div class="col">
+    <div class="card h-100">
       <a href="https://firebirdmagazine.com/music-you-need-to-know/defiantharmony?rq=Dirty" target="_blank" rel="noopener">
-        Defiant harmony: Shanghai garage punk &amp; Oh! Dirty Fingers’ “Lost Zillionaire.”
+        <img src="/assets/img/dirty-fingers.jpg" class="card-img-top" alt="Defiant harmony cover">
       </a>
-    </h5>
-    <p class="card-text">by Lihao Sun</p>
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="https://firebirdmagazine.com/music-you-need-to-know/defiantharmony?rq=Dirty" target="_blank" rel="noopener">
+            Defiant harmony: Shanghai garage punk &amp; Oh! Dirty Fingers’ “Lost Zillionaire.”
+          </a>
+        </h5>
+        <p class="card-text">by Lihao Sun</p>
+      </div>
+    </div>
   </div>
-</div>
 
-<div class="card" style="width: 18rem; margin: 1rem auto;">
-  <a href="https://firebirdmagazine.com/music-history/shoegaze" target="_blank" rel="noopener">
-    <img src="/assets/img/shoegaze.jpg" class="card-img-top" alt="The shape of dreams cover">
-  </a>
-  <div class="card-body">
-    <h5 class="card-title">
+  <!-- Card #2 -->
+  <div class="col">
+    <div class="card h-100">
       <a href="https://firebirdmagazine.com/music-history/shoegaze" target="_blank" rel="noopener">
-        The shape of dreams: a journey through the history of shoegaze.
+        <img src="/assets/img/shoegaze.jpg" class="card-img-top" alt="Shoegaze history cover">
       </a>
-    </h5>
-    <p class="card-text">by Lihao Sun</p>
+      <div class="card-body">
+        <h5 class="card-title">
+          <a href="https://firebirdmagazine.com/music-history/shoegaze" target="_blank" rel="noopener">
+            The shape of dreams: a journey through the history of shoegaze.
+          </a>
+        </h5>
+        <p class="card-text">by Lihao Sun</p>
+      </div>
+    </div>
   </div>
 </div>
 
