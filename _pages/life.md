@@ -19,6 +19,5 @@ I am also actively working on startups. Currently, I’m building Annotaverse, a
 
 I’m deeply interested in indie music and its surrounding subcultures, and I frequently attend live shows. My favorite bands and artists include 脏手指 (Oh! Dirty Fingers), My Bloody Valentine, and ミドリ (Midori). I’ve also written for a music magazine in the past - my pieces include: 
 
-[Defiant harmony: Shanghai garage punk & Oh! Dirty Fingers’ “Lost Zillionaire.](https://firebirdmagazine.com/music-you-need-to-know/defiantharmony?rq=Dirty) By Lihao Sun. 
-
-[The shape of dreams: a journey through the history of shoegaze.](https://firebirdmagazine.com/music-history/shoegaze) By Lihao Sun. 
+- [Defiant harmony: Shanghai garage punk & Oh! Dirty Fingers’ “Lost Zillionaire.](https://firebirdmagazine.com/music-you-need-to-know/defiantharmony?rq=Dirty) 
+- [The shape of dreams: a journey through the history of shoegaze.](https://firebirdmagazine.com/music-history/shoegaze)
