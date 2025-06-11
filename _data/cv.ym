@@ -1,0 +1,78 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Haozhe Chen
+    - name: Languages
+      value: Chinese, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: B.S. in Computer Science
+      institution: Columbia University, New York, NY
+      year: 2025
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Undergraduate Researcher
+      institution: Decision, Risk, and Operations Division, Columbia Business School
+      year: 2023-now
+      description:
+        - Researched dynamic routing in queuing networks via differentiable event simulation 
+        - Advised by <a href="https://hsnamkoong.github.io/">Hongseok Namkoong</a>
+
+    - title: Undergraduate Researcher
+      institution: Computer Vision Lab, Columbia University
+      year: 2022-now
+      description:
+        - Researched vision and language foundation model interpretibility
+        - Advised by <a href="http://www.cs.columbia.edu/~mcz/">Chengzhi Mao</a> and <a href="https://www.cs.columbia.edu/~vondrick/">Carl Vondrick</a>
+
+    - title: Undergraduate Researcher
+      institution: Spoken Language Processing Group, Columbia University
+      year: 2021-now
+      description:
+        - Researched analysis and synthesis of empathetic speech
+        - Advised by <a href="http://www.cs.columbia.edu/~julia/">Julia Hirschberg</a>
+
+    - title: Research Intern
+      institution: Sen Lab, UC Santa Barbara
+      year: 2020
+      description:
+        - Researched 3D reconstruction from images with VAE and GAN
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Teaching Assistant
+      institution: <a href="https://www.cs.columbia.edu/~xichen/cstheory/">COMS 3261, Computer Science Theory </a>
+      year: Fall 2023
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Quantitative Research Intern
+      institution: <a href="https://voloridge.com">Voloridge Investment Management</a>
+      year: Fall 2023
+      description:
+        - Researched equity factor modeling with neural network
+    - title: Quantitative Research Intern
+      institution: <a href="https://voloridge.com">Voloridge Investment Management</a>
+      year: Summer 2023
+      description:
+        - Researched earning season price patterns with natural language processing
+    - title: Quantitative Research Intern
+      institution: <a href="https://voloridge.com">Voloridge Investment Management</a>
+      year: Summer 2021
+      description:
+        - Researched stock price prediction with Graphical Neural Network and clustering
+    
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: <a href="https://www.kaggle.com/tonychenxyz"> Kaggle Competition Expert </a> (#144 of 160,000+)
+      year: 2020
+    - title: Meritorious Award (6% of 13753) of MCM Modeling Contest
+      year: 2020

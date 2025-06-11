@@ -1,0 +1,29 @@
+---
+---
+@article{aligned-but-blind,
+  abbr={ACL 2025 (Main)},
+  title={Aligned but Blind: Alignment Increases Implicit Bias by Reducing Awareness of Race},
+  author={Sun, Lihao and Mao, Chengzhi and Hofmann, Valentin and Bai, Xuechunzi},
+  abstract={Although value-aligned language models (LMs) appear unbiased in explicit bias evaluations, they often exhibit stereotypes in implicit word association tasks, raising concerns about their fair usage. We investigate the mechanisms behind this discrepancy and find that alignment surprisingly amplifies implicit bias in model outputs. Specifically, we show that aligned LMs, unlike their unaligned counterparts, overlook racial concepts in early internal representations when the context is ambiguous. Not representing race likely fails to activate safety guardrails, leading to unintended biases. Inspired by this insight, we propose a new bias mitigation strategy that works by incentivizing the representation of racial concepts in the early model layers. In contrast to conventional mitigation methods of machine unlearning, our interventions find that steering the model to be more aware of racial concepts effectively mitigates implicit bias. Similar to race blindness in humans, ignoring racial nuances can inadvertently perpetuate subtle biases in LMs.},
+  journal={Accepted to ACL 2025 (Main)},
+  year={2025},
+  dimensions={true},
+  selected={true},
+  arxiv={2506.00253},
+  preview={aligned-but-blind-teaser.jpg},
+  website={https://slhleosun.github.io/aligned_but_blind/},
+  code={https://github.com/slhleosun/aligned-but-blind},
+}
+
+@article{geometry-of-self-verification,
+  abbr={arXiv},
+  title={The Geometry of Self-Verification in a Task-Specific Reasoning Model}, 
+  author={Andrew Lee and Lihao Sun and Chris Wendler and Fernanda Viégas and Martin Wattenberg},
+  abstract={How do reasoning models verify their own answers? We study this question by training a model using DeepSeek R1's recipe on the CountDown task. We leverage the fact that preference tuning leads to mode collapse, yielding a model that always produces highly structured chain-of-thought sequences. With this setup, we do top-down and bottom-up analyses to reverse-engineer how the model verifies its outputs. Top-down, we find Gated Linear Unit (GLU) weights encoding verification-related tokens, such as ``success'' or ``incorrect''. Bottom-up, we find that ``previous-token heads'' are mainly responsible for self-verification in our setup. Our analyses meet in the middle: drawing inspiration from inter-layer communication channels, we use the identified GLU weights to localize as few as three attention heads that can disable self-verification, pointing to a necessary component of a potentially larger verification circuit. Finally, we verify that similar verification components exist in our base model and a general reasoning DeepSeek-R1 model.},
+  journal={In submission to NeurIPS 2025},
+  year={2025},
+  dimensions={true},
+  selected={true},
+  arxiv={2504.14379},
+  preview={self-verif-teaser.png},
+}

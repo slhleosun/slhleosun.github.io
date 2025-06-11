@@ -1,0 +1,8 @@
+<div class="services">
+  {% if page.services %}
+  {% for service in page.services %}
+    <h3>{{ service.title }}</h3>
+    {{ service.description | markdownify }}
+  {% endfor %}
+  {% endif %}
+</div>
