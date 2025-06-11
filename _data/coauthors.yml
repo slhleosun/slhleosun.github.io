@@ -10,7 +10,18 @@
   - firstname: ["Andrew"]
     url: https://ajyl.github.io/about
 
-"hofmann"
+"hofmann":
   - firstname: ["Valentin"]
     url: https://valentinhofmann.github.io/
 
+"wendler":
+  - firstname: ["Chris"]
+    url: https://wendlerc.github.io/
+
+"wattenberg":  
+  - firstname: ["Martin"]
+    url: https://www.bewitched.com/
+
+"Viégas":
+  - firstname: ["Fernanda"]
+    url: http://www.fernandaviegas.com/
