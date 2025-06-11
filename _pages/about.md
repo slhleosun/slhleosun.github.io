@@ -4,11 +4,6 @@ title: about
 permalink: /
 subtitle: |+
   <strong>University of Chicago</strong><br>
-  # <a href="https://www.cs.columbia.edu/">Columbia University</a> <br>
-
-  # <a href="/assets/pdf/cv.pdf" target="_blank" title="Download CV" class="cv-icon">
-  #   <i class="fas fa-file-pdf"></i> Download CV
-  # </a>
   <br><br>
 
 profile:
